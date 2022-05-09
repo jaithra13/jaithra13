@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaitgra Bhatia
+- 👋 Hi, I’m Jaithra Bhatia
 - Graduated with Honors BS in Computer Science
 
 <!---
